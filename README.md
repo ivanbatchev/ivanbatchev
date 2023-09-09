@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Batchev</h1>
 <h3 align="center">A passionate frontend developer with a breadth of experience in different industries. Having coded front ends from design compositions, built interactive data-driven websites, I can thrive on projects with multi-tech needs.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanbatchev" alt="ivanbatchev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ivan_batchev" target="blank"><img src="https://img.shields.io/twitter/follow/ivan_batchev?logo=twitter&style=for-the-badge" alt="ivan_batchev" /></a> </p>
 
 - 💬 Ask me about **React, Redux, RTK, RTK Query, Next.js 13, React Router, Stripe, Vercel, Webpack, Git**
 
